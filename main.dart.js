@@ -89592,7 +89592,7 @@ A.NT.prototype={
 F(a){return new A.iV(new A.abI(),null,null,t.NV)}}
 A.abI.prototype={
 $3(a,b,c){var s=A.op()[b.c.a]
-return A.awL(new A.JS(new A.uV($.aL9(),"LETHOKUHLE IGLESIAS MACHEBE",s,!1,null),null),B.t)},
+return A.awL(new A.JS(new A.uV($.aL9(),"WEDDY NKATHA MURITHI",s,!1,null),null),B.t)},
 $C:"$3",
 $R:3,
 $S:526}
@@ -90151,7 +90151,7 @@ if(l==null)l=k
 else l=l.Hz(A.ab(a,k,j).w.a.a<=770?12:15,B.K)
 B.b.E(s,A.a([A.dK(A.a([m,B.fm,new A.k3(1,B.ki,new A.dq(o,k,l,k,k,k,k,k,B.aI,k,2,k,k),k)],r),B.y,B.G,B.x,k),B.cr],r))}return A.b0(k,A.bQ(s,B.bb,B.G,B.x),B.k,k,B.CL,k,k,k,B.om,k,k,k,k)}}
 A.Ap.prototype={
-F(a){var s,r,q,p,o,n=null,m="DEVELOPED BY",l="LETHOKUHLE IGLESIAS MACHEBE",k="assets/svg/linkedIn.svg",j="assets/svg/x.svg",i="assets/svg/github.svg",h="\xa9 2024 Lethokuhle Iglesias Machebe",g=A.fG(-1900,A.b0(n,n,B.k,n,n,new A.bD(n,n,n,n,n,new A.jl(B.B,0.5,B.aP,n,0,A.a([A.A(a).ax.y,A.A(a).go],t.t_),n,n),B.a2),n,n,n,n,n,n,n),n,n,-1900,-1900,0,n),f=t.w,e=A.ab(a,n,f).w.a.a<=770?20:30,d=A.ab(a,n,f).w.a.a<=770?20:30
+F(a){var s,r,q,p,o,n=null,m="DEVELOPED BY",l="WEDDY NKATHA MURITHI",k="assets/svg/linkedIn.svg",j="assets/svg/x.svg",i="assets/svg/github.svg",h="\xa9 2024 WEDDY NKATHA MURITHI",g=A.fG(-1900,A.b0(n,n,B.k,n,n,new A.bD(n,n,n,n,n,new A.jl(B.B,0.5,B.aP,n,0,A.a([A.A(a).ax.y,A.A(a).go],t.t_),n,n),B.a2),n,n,n,n,n,n,n),n,n,-1900,-1900,0,n),f=t.w,e=A.ab(a,n,f).w.a.a<=770?20:30,d=A.ab(a,n,f).w.a.a<=770?20:30
 if(A.ab(a,n,f).w.a.a<=770){if(A.ab(a,n,f).w.a.a<500){f=A.A(a).p2.y
 f=A.aU(m,n,n,n,n,n,n,n,f==null?n:f.fm(B.K),n,n,n)
 s=A.yZ(A.A(a).ax.y,n,n,3)
@@ -100617,7 +100617,7 @@ B.S6=new A.Dt(null,null,null,null,null,null,null,null,null,null,null,null)
 B.S7=new A.Du(null,null,null,null,null,null,null,null,null,null)
 B.S8=new A.is("Contact","READY TO GET\nCONVERSATION STARTED?","GOOD IDEA!",null)
 B.S9=new A.is("WORKS","RECENT WORKS","WORKS",null)
-B.Sa=new A.is("ABOUT","A BRIEF OVERVIEW ABOUT LETHOKUHLE IGLESIAS MACHEBE","Bio",null)
+B.Sa=new A.is("ABOUT","A BRIEF OVERVIEW ABOUT WEDDY NKATHA MURITHI","Bio",null)
 B.Sb=new A.is("SKILLS","EXPERTISE","EXPERIENCE",null)
 B.Sc=new A.is("PROCESS","PROJECT PROCESS","LET'S TALK ABOUT YOUR PROJECT",null)
 B.Sd=new A.is("Contact","Contact Me","GO AHEAD!",null)
