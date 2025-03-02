@@ -90268,7 +90268,7 @@ p=p==null?n:p.hv(i.tD(a))
 q=A.j2(A.axH(A.dL(n,n,n,n,n,n,n,n,"Goku",n,n,i.tD(a),n,n,n,A.aBa(a,1),n,!0,n,n,n,n,n,n,n,n),p,new A.i(-k/3,-q/3),"WEDDY"),B.E,B.av,B.aw,0)
 k=A.A(a).p2.d
 k=k==null?n:k.o4(0.4)
-k=A.j2(A.rL(A.n0("MACHEBE",i.tD(a),1,k,n),B.PI),B.E,B.av,B.aw,0)
+k=A.j2(A.rL(A.n0("MURITHI",i.tD(a),1,k,n),B.PI),B.E,B.av,B.aw,0)
 i=A.cf(n,A.ab(a,n,m).w.a.b*0.06,n)
 p=A.dL(n,n,n,n,n,n,n,n,n,n,n,A.ab(a,n,m).w.a.a>1025?16:14,n,n,B.oH,n,n,!0,n,n,n,n,n,n,n,n)
 o=t.p
